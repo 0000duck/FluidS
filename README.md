@@ -15,6 +15,11 @@ Fluid Simulator.
 
 Download available at <https://github.com/zigzagbob/FluidS/releases>.
 
+## Usage ##
+
+ 1. Download and decompress the package of program.
+ 2. Double click `FluidS.exe`.
+
 ## Build ##
 
  1. Clone the repo using Git.
@@ -26,7 +31,7 @@ Download available at <https://github.com/zigzagbob/FluidS/releases>.
 
 ![GPL-v3](https://www.gnu.org/graphics/gplv3-127x51.png)
 
-This project references many other open-source projects. See [here](https://github.com/xupefei/QuickLook/wiki/On-the-Shoulders-of-Giants) for the full list.
+[Flat icon set](https://www.easyicon.net/550601-Fluid_icon.html) from [graphicex](https://www.easyicon.net/).
 
 All source codes are licensed under [GPL-3.0](https://opensource.org/licenses/GPL-3.0).
 
