@@ -8,7 +8,8 @@ FluidS
 
 Fluid simulator in `Qt` framework, whose core algorithm for simulating is referred from [Robert Bridson](http://www.cs.ubc.ca/~rbridson/)'s `Fluid Simulation for Computer Graphics` using numerical solution of `Navier-Stokes equations` to compute distribution of density and velocity in each frame displayed in `OpenGL` widget.
 
-![LE interface](https://github.com/zigzagbob/Compile/raw/master/png/fsd.PNG)![LE interface](https://github.com/zigzagbob/Compile/raw/master/png/fsv.PNG)
+![LE interface](https://github.com/zigzagbob/Compile/raw/master/png/fsd.PNG)
+![LE interface](https://github.com/zigzagbob/Compile/raw/master/png/fsv.PNG)
 
 ## Download ##
 
@@ -22,7 +23,7 @@ Download available at <https://github.com/zigzagbob/FluidS/releases>.
 
 Source of static qt compiler: [qt-everywhere-opensource-src-5.4.0-rc](http://download.qt.io/development_releases/qt/5.4/5.4.0-rc/single/qt-everywhere-opensource-src-5.4.0-rc.zip)
 
-Tutorial(in Chinese) of compiling static qt compiler: <http://zerois.me/id-36.html>
+Tutorial(in Chinese) of building static qt compiler: <http://zerois.me/id-36.html>
 
 ### Dynamic Qt compiler ###
 
