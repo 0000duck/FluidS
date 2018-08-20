@@ -6,7 +6,7 @@ FluidS
 [![Github All Releases](https://img.shields.io/github/downloads/zigzagbob/FluidS/total.svg)](https://github.com/zigzagbob/FluidS/releases)
 [![GitHub release](https://img.shields.io/github/release/zigzagbob/FluidS.svg)](https://github.com/zigzagbob/FluidS/releases/latest)
 
-Fluid simulator in `Qt` framework, whose core algorithm for simulating is referred from [Robert Bridson](http://www.cs.ubc.ca/~rbridson/)'s `Fluid Simulation for Computer Graphics` using numerical solution of `Navier-Stokes equations` to compute distribution of density and velocity in each frame and display it in `OpenGL` widget.
+Fluid simulator in `Qt` framework, whose core algorithm for simulating is referred from [Robert Bridson](http://www.cs.ubc.ca/~rbridson/)'s `Fluid Simulation for Computer Graphics` using numerical solution of `Navier-Stokes equations` to compute distribution of density and velocity in each frame displayed in `OpenGL` widget.
 
 ![LE interface](https://github.com/zigzagbob/Compile/raw/master/png/fsd.PNG)
 ![LE interface](https://github.com/zigzagbob/Compile/raw/master/png/fsv.PNG)
