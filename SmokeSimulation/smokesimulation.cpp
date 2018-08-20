@@ -141,8 +141,7 @@ void SmokeSimulation::setupUi(QWidget *SmokeSimulationClass)
 void SmokeSimulation::retranslateUi(QWidget *SmokeSimulationClass)
     {
         SmokeSimulationClass->setWindowTitle(QApplication::translate("SmokeSimulationClass", "Fluid Simulatior", 0));
-        pushButton_Vector->setText(QApplication::translate("SmokeSimulationClass", "Vector", 0));
-		//pushButton_Scalar->setText(QApplication::translate("SmokeSimulationClass", "Scalar", 0));
+        pushButton_Vector->setText(QApplication::translate("SmokeSimulationClass", "Vector", 0)); 
         groupBox_Ref->setTitle(QApplication::translate("SmokeSimulationClass", "Parameter", 0));
         label_Visc->setText(QApplication::translate("SmokeSimulationClass", "0", 0));
         label_Diff->setText(QApplication::translate("SmokeSimulationClass", "0", 0));
@@ -151,8 +150,7 @@ void SmokeSimulation::retranslateUi(QWidget *SmokeSimulationClass)
         groupBox_Res->setTitle(QApplication::translate("SmokeSimulationClass", "Resolution", 0));
         radioButton_64->setText(QApplication::translate("SmokeSimulationClass", "64", 0));
         radioButton_128->setText(QApplication::translate("SmokeSimulationClass", "128", 0));
-        pushButton_Pause->setText(QApplication::translate("SmokeSimulationClass", "Pause", 0));
-		//pushButton_Start->setText(QApplication::translate("SmokeSimulationClass", "Start", 0));
+        pushButton_Pause->setText(QApplication::translate("SmokeSimulationClass", "Pause", 0)); 
         pushButton_Clear->setText(QApplication::translate("SmokeSimulationClass", "Clear", 0));
         groupBox_Color->setTitle(QApplication::translate("SmokeSimulationClass", "Color", 0));
         comboBox_VelColor->clear();

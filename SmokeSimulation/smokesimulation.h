@@ -19,8 +19,7 @@
 
 #include<QTimer>
 
-#include"GLWidget.h"
-#include "ui_smokesimulation.h"
+#include"GLWidget.h" 
 
 class SmokeSimulation : public QWidget
 {
@@ -41,12 +40,8 @@ public:
     QRadioButton *radioButton_128;
     
     QPushButton *pushButton_Clear;
-
 	QPushButton *pushButton_Pause;
-	//QPushButton *pushButton_Start;
-
 	QPushButton *pushButton_Vector;
-	//QPushButton *pushButton_Scalar;
 
     QOpenGLWidget *openGLWidget;
     QGroupBox *groupBox_Color;
@@ -65,17 +60,9 @@ public:
 	void setupUi(QWidget *SmokeSimulationClass);
 	void retranslateUi(QWidget *SmokeSimulationClass);
 
-//signals:
-//	void pauseSign(bool);
-//	void vecSign(bool);
-
 public slots:
-	void PauseSlot(bool); 
-	void VecMod(bool); 
-
-private:
-	Ui::SmokeSimulationClass ui;
-
+	void PauseSlot(bool);
+	void VecMod(bool);
 };
 
 #endif // SMOKESIMULATION_H

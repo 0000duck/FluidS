@@ -4,8 +4,7 @@
 #define END_FOR }}
 
 #include <stdlib.h>
-#include <stdio.h>
-//#include <GL/glut.h>
+#include <stdio.h> 
 
 static int N;
 static float dt, diff, visc;
