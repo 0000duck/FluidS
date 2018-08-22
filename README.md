@@ -59,4 +59,4 @@ $(QTDIR)\lib\qtmain.lib;$(QTDIR)\lib\Qt5Widgets.lib;$(QTDIR)\plugins\platforms\q
 
 All source codes are licensed under [GPL-3.0](https://opensource.org/licenses/GPL-3.0).
 
-If you want make any modification on these source codes while keeping new codes not protected by GPL-3.0, please contact me for a sublicense instead.
+If you want make any modification on these source codes while keeping new codes unprotected by GPL-3.0, please contact me for a sublicense instead.
