@@ -1,19 +1,19 @@
 FluidS
 ===============
 
-[![license](https://img.shields.io/github/license/zigzagbob/FluidS.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
-[![AppVeyor](https://img.shields.io/appveyor/ci/zigzagbob/FluidS.svg)](https://ci.appveyor.com/project/zigzagbob/FluidS)
-[![Github All Releases](https://img.shields.io/github/downloads/zigzagbob/FluidS/total.svg)](https://github.com/zigzagbob/FluidS/releases)
-[![GitHub release](https://img.shields.io/github/release/zigzagbob/FluidS.svg)](https://github.com/zigzagbob/FluidS/releases/latest)
+[![license](https://img.shields.io/github/license/george-chou/FluidS.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
+[![AppVeyor](https://img.shields.io/appveyor/ci/george-chou/FluidS.svg)](https://ci.appveyor.com/project/george-chou/FluidS)
+[![Github All Releases](https://img.shields.io/github/downloads/george-chou/FluidS/total.svg)](https://github.com/george-chou/FluidS/releases)
+[![GitHub release](https://img.shields.io/github/release/george-chou/FluidS.svg)](https://github.com/george-chou/FluidS/releases/latest)
 
 Fluid simulator in `Qt` framework, whose core algorithm for simulating process is referred from [Robert Bridson](http://www.cs.ubc.ca/~rbridson/)'s `Fluid Simulation for Computer Graphics` using numerical solution of `Navier-Stokes equations` to compute distribution of density and velocity in each frame displayed in `OpenGL` widget.
 
-![LE interface](https://github.com/zigzagbob/FluidS/raw/master/cover/fsd.PNG)
-![LE interface](https://github.com/zigzagbob/FluidS/raw/master/cover/fsv.PNG)
+![LE interface](https://github.com/george-chou/FluidS/raw/master/cover/fsd.PNG)
+![LE interface](https://github.com/george-chou/FluidS/raw/master/cover/fsv.PNG)
 
 ## Download ##
 
-Download available at <https://github.com/zigzagbob/FluidS/releases>.
+Download available at <https://github.com/george-chou/FluidS/releases>.
 
 # Build #
 
