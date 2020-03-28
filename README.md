@@ -8,8 +8,7 @@ FluidS
 
 Fluid simulator in `Qt` framework, whose core algorithm for simulating process is referred from [Robert Bridson](http://www.cs.ubc.ca/~rbridson/)'s `Fluid Simulation for Computer Graphics` using numerical solution of `Navier-Stokes equations` to compute distribution of density and velocity in each frame displayed in `OpenGL` widget.
 
-<img style="float: left;" width="450" src="cover/fsd.PNG"/>
-<img width="450" src="cover/fsv.PNG"/>
+<img width="450" src="cover/fsd.PNG"/><img width="450" src="cover/fsv.PNG"/>
 
 ## Download ##
 
